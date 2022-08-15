@@ -14,5 +14,8 @@ https://www.freecodecamp.org/portuguese/news/validacao-de-dados-como-verificar-d
 Exibindo imagens no CSS, mas já pensou em exibir no javascript? SIM, é possível?
 https://www.delftstack.com/pt/howto/javascript/display-image-with-javascript/
 
+Como fazer uma imagem responsiva com CSS:
+https://pt.stackoverflow.com/questions/213643/como-fazer-uma-imagem-responsiva-com-css
+
 FAQ CSS: dúvidas básicas e orientações gerais:
 https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Howto/CSS_FAQ
