@@ -8,5 +8,8 @@ https://acervolima.com/projete-uma-calculadora-de-imc-usando-javascript/
 Utilizando mais de um arquivo CSS no mesmo documento HTML:
 https://pt.answacode.com/stackoverflow/22826421/como-usar-varios-arquivos-css-no-meteor
 
+Validação de dados de formulários com HTML5 e javascript:
+https://www.freecodecamp.org/portuguese/news/validacao-de-dados-como-verificar-dados-enviados-pelo-usuario-em-formularios-html-utilizando-javascript/
+
 FAQ CSS: dúvidas básicas e orientações gerais:
 https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Howto/CSS_FAQ
