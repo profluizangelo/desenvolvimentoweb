@@ -2,8 +2,17 @@
 Repositório com arquivos de referência para programação web - Javascript, CSS3 e HTML5 e bibliotecas de conteúdo e código
 
 Materiais de apoio:
+Criando variáveis:
 https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Variables
+
+Usando conceito de calculadora com botões e comandos básicos de javascript:
 https://acervolima.com/projete-uma-calculadora-de-imc-usando-javascript/
+
+Criando botões no CSS:
+https://www.w3bai.com/pt/css/css3_buttons.html#gsc.tab=0
+
+Como colocar um botão em cima de uma imagem (CSS):
+https://pt.stackoverflow.com/questions/306290/como-colocar-um-bot%c3%a3o-em-cima-de-uma-imagem
 
 Utilizando mais de um arquivo CSS no mesmo documento HTML:
 https://pt.answacode.com/stackoverflow/22826421/como-usar-varios-arquivos-css-no-meteor
