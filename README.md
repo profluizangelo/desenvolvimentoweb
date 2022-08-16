@@ -17,5 +17,8 @@ https://www.delftstack.com/pt/howto/javascript/display-image-with-javascript/
 Como fazer uma imagem responsiva com CSS:
 https://pt.stackoverflow.com/questions/213643/como-fazer-uma-imagem-responsiva-com-css
 
+Criando uma galeria de fotos em CSS3, com transições, animações e sombra:
+https://www.oficinadanet.com.br/artigo/css/criando-uma-galeria-de-fotos-em-css3
+
 FAQ CSS: dúvidas básicas e orientações gerais:
 https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Howto/CSS_FAQ
