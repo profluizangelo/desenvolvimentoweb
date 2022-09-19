@@ -32,3 +32,7 @@ https://www.oficinadanet.com.br/artigo/css/criando-uma-galeria-de-fotos-em-css3
 
 FAQ CSS: dúvidas básicas e orientações gerais:
 https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Howto/CSS_FAQ
+
+Para projetos multi-linguísticos:
+Código das linguas utilizadas para identificação: organizar coleções de bibliotecas, escolher localizações, traduções bem como uma designação abreviada para formulários:
+https://www.alphatrad.pt/o-codigo-das-linguas
